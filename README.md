@@ -16,19 +16,7 @@ The way to think of this is as a before-and-after exercise. Before, the data exi
 
 ## Getting started
 
-Normally in this class we would use the MacLab computers and the Sublime text editor installed on them. But since we're learning remotely this semester, we'll be working on our own computers and we'll need to take some time to make sure everything is installed correctly.
-
-First, let's talk about text editors.
-
-#### For Mac
-
-I suggest installing [Brackets](http://brackets.io/). It's free and easy to use. It has everything we need for this tutorial and more.
-
-I also recommend [Sublime](https://www.sublimetext.com/3). You an use it for free for as long as you want, but it's encouraged to purchase a license to support the software's development. Licenses are $80 and entitle you to use it on as many devices as you like.
-
-#### For Windows
-
-Jack and I are both fans of [Notepad++](https://notepad-plus-plus.org/). It has a bunch of plugins and a lot of functionality across multiple languages. It's also free.
+For this class, we'll be using Jupyter notebooks to run our Python code instead of a text editor and terminal. 
 
 ## Installation
 
