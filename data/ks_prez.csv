@@ -1,0 +1,106 @@
+fips,county_name,state_code,acp_type,biden,trump,other,prez_total
+20001,Allen County,KS,Rural Middle America,1570,4218,104,5892
+20003,Anderson County,KS,Rural Middle America,782,2929,81,3792
+20005,Atchison County,KS,Rural Middle America,2359,4906,175,7440
+20007,Barber County,KS,Rural Middle America,291,2014,37,2342
+20009,Barton County,KS,Rural Middle America,2340,8608,182,11130
+20011,Bourbon County,KS,Rural Middle America,1541,5023,112,6676
+20013,Brown County,KS,Rural Middle America,1104,3262,105,4471
+20015,Butler County,KS,Rural Middle America,9181,22634,705,32520
+20017,Chase County,KS,Working Class Country,345,1123,23,1491
+20019,Chautauqua County,KS,Working Class Country,212,1402,25,1639
+20021,Cherokee County,KS,Rural Middle America,2194,6766,168,9128
+20023,Cheyenne County,KS,Aging Farmlands,224,1183,22,1429
+20025,Clark County,KS,Rural Middle America,143,904,20,1067
+20027,Clay County,KS,Rural Middle America,894,3177,111,4182
+20029,Cloud County,KS,Rural Middle America,920,3242,101,4263
+20031,Coffey County,KS,Rural Middle America,964,3489,112,4565
+20033,Comanche County,KS,Aging Farmlands,126,762,28,916
+20035,Cowley County,KS,Evangelical Hubs,4273,9656,302,14231
+20037,Crawford County,KS,College Towns,6179,10045,421,16645
+20039,Decatur County,KS,Aging Farmlands,218,1260,20,1498
+20041,Dickinson County,KS,Rural Middle America,2060,7126,163,9349
+20043,Doniphan County,KS,Rural Middle America,686,2976,47,3709
+20045,Douglas County,KS,College Towns,40785,17286,1424,59495
+20047,Edwards County,KS,Rural Middle America,271,1141,19,1431
+20049,Elk County,KS,Working Class Country,195,1140,26,1361
+20051,Ellis County,KS,College Towns,3737,9758,305,13800
+20053,Ellsworth County,KS,Rural Middle America,648,2148,57,2853
+20055,Finney County,KS,Hispanic Centers,4325,7236,239,11800
+20057,Ford County,KS,Hispanic Centers,2947,5803,165,8915
+20059,Franklin County,KS,Rural Middle America,3690,8479,308,12477
+20061,Geary County,KS,Military Posts,3983,5323,297,9603
+20063,Gove County,KS,Aging Farmlands,166,1291,14,1471
+20065,Graham County,KS,Aging Farmlands,228,1080,29,1337
+20067,Grant County,KS,Hispanic Centers,518,1936,47,2501
+20069,Gray County,KS,Rural Middle America,341,1911,36,2288
+20071,Greeley County,KS,Rural Middle America,78,549,14,641
+20073,Greenwood County,KS,Working Class Country,569,2444,64,3077
+20075,Hamilton County,KS,Hispanic Centers,141,698,20,859
+20077,Harper County,KS,Rural Middle America,461,2168,49,2678
+20079,Harvey County,KS,Rural Middle America,6747,10182,380,17309
+20081,Haskell County,KS,Hispanic Centers,268,1122,20,1410
+20083,Hodgeman County,KS,Aging Farmlands,154,875,16,1045
+20085,Jackson County,KS,Rural Middle America,1881,4517,186,6584
+20087,Jefferson County,KS,Rural Middle America,3194,6334,254,9782
+20089,Jewell County,KS,Aging Farmlands,212,1387,29,1628
+20091,Johnson County,KS,Exurbs,184259,155631,7324,347214
+20093,Kearny County,KS,Hispanic Centers,267,1164,24,1455
+20095,Kingman County,KS,Rural Middle America,752,3130,67,3949
+20097,Kiowa County,KS,Rural Middle America,156,980,29,1165
+20099,Labette County,KS,Evangelical Hubs,2655,5735,173,8563
+20101,Lane County,KS,Aging Farmlands,115,762,18,895
+20103,Leavenworth County,KS,Military Posts,13886,21610,994,36490
+20105,Lincoln County,KS,Working Class Country,266,1283,30,1579
+20107,Linn County,KS,Rural Middle America,896,4048,102,5046
+20109,Logan County,KS,Aging Farmlands,186,1249,23,1458
+20111,Lyon County,KS,College Towns,6055,7550,383,13988
+20113,McPherson County,KS,Rural Middle America,4134,9964,340,14438
+20115,Marion County,KS,Rural Middle America,1516,4465,130,6111
+20117,Marshall County,KS,Rural Middle America,1259,3729,126,5114
+20119,Meade County,KS,Rural Middle America,263,1523,39,1825
+20121,Miami County,KS,Rural Middle America,5247,12308,382,17937
+20123,Mitchell County,KS,Rural Middle America,558,2504,39,3101
+20125,Montgomery County,KS,Evangelical Hubs,3228,9931,267,13426
+20127,Morris County,KS,Rural Middle America,729,2124,46,2899
+20129,Morton County,KS,Rural Middle America,150,1034,14,1198
+20131,Nemaha County,KS,Rural Middle America,927,4664,93,5684
+20133,Neosho County,KS,Rural Middle America,1796,4970,111,6877
+20135,Ness County,KS,Aging Farmlands,149,1339,25,1513
+20137,Norton County,KS,Rural Middle America,364,2007,44,2415
+20139,Osage County,KS,Rural Middle America,2136,5705,194,8035
+20141,Osborne County,KS,Aging Farmlands,281,1629,35,1945
+20143,Ottawa County,KS,Rural Middle America,506,2610,75,3191
+20145,Pawnee County,KS,Rural Middle America,643,2045,51,2739
+20147,Phillips County,KS,Aging Farmlands,318,2418,45,2781
+20149,Pottawatomie County,KS,Rural Middle America,3313,9452,318,13083
+20151,Pratt County,KS,Rural Middle America,933,3108,96,4137
+20153,Rawlins County,KS,Aging Farmlands,214,1261,29,1504
+20155,Reno County,KS,Rural Middle America,8886,18443,612,27941
+20157,Republic County,KS,Aging Farmlands,424,2182,51,2657
+20159,Rice County,KS,Rural Middle America,965,3262,92,4319
+20161,Riley County,KS,College Towns,12765,11610,796,25171
+20163,Rooks County,KS,Rural Middle America,339,2325,35,2699
+20165,Rush County,KS,Aging Farmlands,295,1350,32,1677
+20167,Russell County,KS,Aging Farmlands,600,2790,77,3467
+20169,Saline County,KS,Rural Middle America,8214,15722,595,24531
+20171,Scott County,KS,Aging Farmlands,299,2014,41,2354
+20173,Sedgwick County,KS,Big Cities,95870,122416,5402,223688
+20175,Seward County,KS,Hispanic Centers,1833,3372,89,5294
+20177,Shawnee County,KS,College Towns,43015,40443,2199,85657
+20179,Sheridan County,KS,Aging Farmlands,147,1282,16,1445
+20181,Sherman County,KS,Rural Middle America,396,2269,62,2727
+20183,Smith County,KS,Aging Farmlands,336,1763,30,2129
+20185,Stafford County,KS,Aging Farmlands,357,1645,32,2034
+20187,Stanton County,KS,Hispanic Centers,148,614,14,776
+20189,Stevens County,KS,Hispanic Centers,237,1760,34,2031
+20191,Sumner County,KS,Rural Middle America,2591,8105,232,10928
+20193,Thomas County,KS,Rural Middle America,625,3130,55,3810
+20195,Trego County,KS,Aging Farmlands,242,1363,25,1630
+20197,Wabaunsee County,KS,Rural Middle America,964,2845,93,3902
+20199,Wallace County,KS,Aging Farmlands,44,770,11,825
+20201,Washington County,KS,Aging Farmlands,475,2363,45,2883
+20203,Wichita County,KS,Hispanic Centers,149,808,11,968
+20205,Wilson County,KS,Working Class Country,723,3153,78,3954
+20207,Woodson County,KS,Working Class Country,294,1228,24,1546
+20209,Wyandotte County,KS,African American South,36788,18934,1063,56785
